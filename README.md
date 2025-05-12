@@ -10,9 +10,13 @@ now also some stuff may not load becuase its light-weight if you are looking for
 ------
 #TESTS 
 websites that may not load:
+--
 https://youtube.com
+--
 that is the only site i have tested. Some others may not work
 ----
 #QUESTIONS
 "does it work on other OS besides windows?" no. it doesnt I plan on adding it in the feature tho.
+--
 "what windows vers does it work on?" it should work on all vers of windows 10 and 11 and should work on 64 bit AND 32 bit.
+--
